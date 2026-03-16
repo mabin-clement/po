@@ -1,0 +1,27 @@
+.out{
+    height: 900px;
+    width: 2000px;
+    display: flex;
+    margin: 15px;
+    margin-top: 50px;
+    border-radius: 30px;
+   background: linear-gradient(135deg, #667EEA, #764BA2);
+   
+    
+}
+.mab{
+    height: 150px;
+   position: absolute;
+   margin: 500px;
+   margin-right: 600px;
+   margin-top: 200px;
+}
+.out:hover{
+   background: linear-gradient(135deg, #5A67D8, #6B46C1);
+   
+}
+
+.lang{
+    height: 800px;
+    margin: 50px;
+}
